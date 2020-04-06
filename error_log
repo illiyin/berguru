@@ -1,0 +1,5 @@
+[09-Mar-2020 06:17:13 UTC] PHP Notice:  Undefined index: log_path in /home/bergurun/public_html/system/core/Log.php on line 127
+[09-Mar-2020 06:17:13 UTC] PHP Notice:  Undefined index: log_path in /home/bergurun/public_html/system/core/Log.php on line 127
+[09-Mar-2020 06:17:13 UTC] PHP Warning:  mkdir(): Invalid path in /home/bergurun/public_html/system/core/Log.php on line 131
+[09-Mar-2020 06:17:13 UTC] PHP Notice:  Undefined index: log_threshold in /home/bergurun/public_html/system/core/Log.php on line 138
+[09-Mar-2020 06:17:13 UTC] PHP Notice:  Undefined index: log_threshold in /home/bergurun/public_html/system/core/Log.php on line 142
